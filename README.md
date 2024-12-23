@@ -1,4 +1,4 @@
-# ProjetoPizzaria
+# Projeto Pizzaria
 
 <p>
   Projeto Simples e resposivo feito com HTML e CSS, proposto pelo livro guia prático de HTML e CSS do Wallace Fragoso
